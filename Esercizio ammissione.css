@@ -1,0 +1,70 @@
+body{
+  background-image: url(file:///Users/daniele/Desktop/CORSO%20BOOLEAN%20CODING/Esercizio%20ammissione/Img/background.jpg);
+  background-size:cover;
+}
+
+.box{
+  background-color:rgba(0,0,0,0.5);
+  height: 650px;
+  border: 50px;
+  margin-top: 25px;
+  margin-right: 250px;
+  margin-left: 250px;
+  border-radius: 25px;
+}
+header{
+  text-align: center;
+}
+img{
+  width:200px;
+  margin:100px;
+}
+
+#testoboleaners{
+  color: limegreen;
+  font-size:30px;
+  margin: -100px;
+}
+
+ .Piccolo-box-verde{
+  background-color:limegreen;
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 10px;
+}
+
+main{
+  color: white;
+}
+
+.Monopattini{
+  margin-left: 50px;
+}
+
+.nomemonopattino{
+  display: inline-block;
+  margin: 10px;
+  font-size: 20px;
+}
+
+#Boxcarica1{
+  background-color:rgba(255,128,0,0.7);
+  padding: 15px;
+  margin-right:600px;
+  border-radius: 5px;
+}
+
+#Boxcarica2{
+  background-color:rgba(0,255,0,0.7);
+  padding: 15px;
+  margin-right:300px;
+  border-radius: 5px;
+}
+
+#Boxcarica3{
+  background-color:rgba(225,0,0,0.7);
+  padding: 15px;
+  margin-right:700px;
+  border-radius: 5px;
+}
